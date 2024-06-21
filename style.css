@@ -164,7 +164,7 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 78px;
+  font-size: 100px;
   line-height: 1.2em;
   margin-bottom: 24px;
 }
@@ -634,7 +634,7 @@ footer.alt-section .current a {
 }
 
 .contact {
-  background-image: url(./img/bg-owl-moon-flipped.webp);
+  background-image: url(./img/swordfairy.png);
   background-position: right;
   background-repeat: no-repeat, repeat;
   background-size: 18%;
@@ -1379,13 +1379,15 @@ footer.alt-section .current a {
   height: 98px;
 }
 
-.star-bottom {
-  background: url(./img/bg-star-bottom.webp) bottom left no-repeat;
+.heart-bottom {
+  background: url(./img/heart.png) bottom left no-repeat;
   bottom: 0;
   right: 30%;
-  width: 35%;
-  height: 114px;
+  width: 50%;
+  height: 50%;
+  opacity: 50%;
 }
+
 
 .star-graphics {
   background-size: contain;
@@ -1409,7 +1411,7 @@ footer.alt-section .current a {
 }
 
 .orbit {
-  background: url(./img/bg-orbit.webp) no-repeat;
+  background: url(./img/circulat-design2.png) no-repeat;
   background-size: contain;
   height: 300px;
   position: absolute;
@@ -1418,6 +1420,7 @@ footer.alt-section .current a {
   mix-blend-mode: darken;
   animation: rotation 120s infinite linear;
   opacity: 45%;
+  filter: grayscale(100%);
 }
 .orbit.geometric {
   background: url(./img/bg-geometric-globe.webp) no-repeat;
