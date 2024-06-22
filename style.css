@@ -630,10 +630,11 @@ footer.alt-section .current a {
 
 .contact {
   background-image: url(./img/swordfairy.png);
-  background-position: right;
+  background-position: top right;
   background-repeat: no-repeat, repeat;
   background-size: 18%;
   mix-blend-mode: darken;
+
 }
 .contact h2 {
   margin-bottom: 16px;
