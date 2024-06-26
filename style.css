@@ -129,7 +129,7 @@ section {
 
 .alt-section {
   background: #381D2C;
-  color: #fbf1e1;
+  color: #FFDCF0;
 }
 .alt-section a {
   border-bottom: 0.5px solid #FFDCF0;
@@ -1155,11 +1155,11 @@ footer.alt-section .current a {
   fill: #2C2622;
 }
 .aside .social-list a:hover {
-  border-bottom: 0.5px solid #e3a641;
-  color: #d38e1f;
+  border-bottom: 0.5px solid #f0979a;
+  color: #cf7e81;
 }
 .aside .social-list a:hover path {
-  fill: #d38e1f;
+  fill: #cf7e81;
 }
 
 .stay-in-touch {
@@ -1316,7 +1316,7 @@ footer.alt-section .current a {
   text-decoration: underline;
 }
 .interviews a h3 {
-  color: #fbf1e1;
+  color: #FFDCF0;
 }
 .interviews p:after {
   content: "↗";
