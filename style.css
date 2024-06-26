@@ -92,7 +92,6 @@ body::-webkit-scrollbar {
 
 .outer-container {
   margin: 24px;
-  border: 1px solid black;
   overflow: hidden;
 }
 
@@ -138,7 +137,6 @@ section {
   color: #FFDCF0;
 }
 .alt-section a {
-  border-bottom: 0.5px solid #FFDCF0;
   color: #FFDCF0;
 }
 .alt-section a:hover {
@@ -148,9 +146,6 @@ section {
   color: #FFB5B7;
 }
 
-.alt-section + .alt-section {
-  border-top: 0.5px solid #FFDCF0;
-}
 
 hr {
   border: none;
@@ -1529,7 +1524,6 @@ footer.alt-section .current a {
   padding: 24px;
 }
 .outer-frame .frame-inner {
-  border: 5px solid #FFDCF0;
   background: #381D2C;
   overflow: hidden;
   position: relative;
