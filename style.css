@@ -112,6 +112,8 @@ body::-webkit-scrollbar {
   max-width: 1416px;
   margin: 0 auto;
   padding: 80px 8.474576271%; /* 120/1416 */
+  position: absolute;
+  align-items: right;
 }
 
 .super-inset {
