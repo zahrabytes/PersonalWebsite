@@ -1477,7 +1477,19 @@ footer.alt-section .current a {
 }
 
 
+.upsideDownHeavens {
+  background: url(./img/section-bg3\ copy.jpg);
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  opacity: 40%;
 
+  border-radius: 30px;
+}
 .double-moon,
 .outer-frame .double-moon.frame-inner {
   background: url(./img/bg-moon-phases.webp) -30% 50% no-repeat, url(./img/bg-moon-phases.webp) 130% 50% no-repeat;
