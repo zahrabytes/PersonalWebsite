@@ -1121,9 +1121,7 @@ footer.alt-section .current a {
 }
 
 .social-list li {
-  font-family: "logic-monoscript", mono;
-  font-weight: 300;
-  font-style: normal;
+  font-family: "Quasimoda", "ivyora-text", sans-serif;
   font-size: 14px;
   letter-spacing: 0.05em;
   line-height: 1.5em;
@@ -1131,16 +1129,16 @@ footer.alt-section .current a {
   text-transform: uppercase;
 }
 .social-list a {
-  color: #FFB5B7;
+  color: #381D2C;
   display: flex;
   width: 100%;
   align-items: center;
 }
 .social-list a:hover {
-  color: #FFDCF0;
+  color: rgb(157, 38, 102);
 }
 .social-list a:hover path {
-  fill: #FFDCF0;
+  fill: rgb(157, 38, 102);
 }
 .social-list svg {
   margin: -4px 4px 0 0;
@@ -1148,7 +1146,7 @@ footer.alt-section .current a {
   width: 12px;
 }
 .social-list path {
-  fill: #FFB5B7;
+  fill: #381D2C;
 }
 
 .aside {
@@ -1161,11 +1159,11 @@ footer.alt-section .current a {
   fill: #2C2622;
 }
 .aside .social-list a:hover {
-  border-bottom: 0.5px solid #f0979a;
-  color: #cf7e81;
+  border-bottom: 0.5px solid rgb(157, 38, 102);
+  color: rgb(157, 38, 102);
 }
 .aside .social-list a:hover path {
-  fill: #cf7e81;
+  fill: rgb(157, 38, 102);
 }
 
 .stay-in-touch {
