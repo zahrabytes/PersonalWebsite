@@ -61,8 +61,8 @@ table {
 ------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------- */
 @font-face {
-  font-family: "UNDERTOWN PERSONAL USE";
-  src: url("UNDERTOWN\ PERSONAL\ USE.woff2") format("woff2");
+  font-family: "Anthelion";
+  src: url("Anthelion.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
@@ -161,7 +161,7 @@ hr {
 ------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------- */
 h1, h2 {
-  font-family: "UNDERTOWN PERSONAL USE", sans-serif;
+  font-family: "Anthelion", sans-serif;
   font-weight: 400;
   /*	font-style: italic;*/
   letter-spacing: -0.015em;
@@ -170,13 +170,13 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 90px;
+  font-size: 150px;
   line-height: 1.2em;
   margin-bottom: 24px;
 }
 
 h2 {
-  font-size: 50px;
+  font-size: 70px;
   line-height: 1.25em;
   margin-bottom: 40px;
   color: #FFDCF0;
@@ -273,7 +273,7 @@ header li,
 footer li,
 header.alt-section li,
 footer.alt-section li {
-  font-family: "UNDERTOWN PERSONAL USE";
+  font-family: "Anthelion";
   font-style: bold;
   font-size: 15px;
   letter-spacing: 0.1em;
@@ -301,7 +301,7 @@ header .current a,
 footer .current a,
 header.alt-section .current a,
 footer.alt-section .current a {
-  font-family: "UNDERTOWN PERSONAL USE";
+  font-family: "Anthelion";
   border-bottom: 0.5px solid #FFB5B7;
   margin: 0 4px;
   padding: 4px 0 0 0;
@@ -314,7 +314,7 @@ footer.alt-section .current a {
 }
 
 .site-name {
-  font-family: UNDERTOWN PERSONAL USE;
+  font-family: Anthelion;
   font-weight: 700;
   font-style: normal;
   font-size: 24px;
