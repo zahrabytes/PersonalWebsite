@@ -653,6 +653,11 @@ footer.alt-section .current a {
   margin-bottom: 16px;
 }
 
+.custom h2 {
+  margin-bottom: 16px;
+}
+
+
 .contact {
   background-image: url(./img/swordfairy.png);
   background-position: top right;
@@ -2024,4 +2029,14 @@ footer.alt-section .current a {
 .words li:last-of-type {
   border-bottom: none;
   margin-bottom: 0;
+}
+
+.portfolio-box {
+  border: 5px solid #2b1621; /* Corrected border property */
+  background: #2b1621;
+  box-sizing: border-box;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
